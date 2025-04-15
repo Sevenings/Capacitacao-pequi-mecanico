@@ -13,7 +13,8 @@
 
 - [ ] ROS
   - [ ] Cli Tools
-    - [ ] Configuring Envirionment
+    - [x] Configuring Envirionment
+    - [x] Turtlesim e rqt
     - [ ] Nodes
     - [ ] Topics
     - [ ] Services
