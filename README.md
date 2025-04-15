@@ -15,7 +15,7 @@
   - [ ] Cli Tools
     - [x] Configuring Envirionment
     - [x] Turtlesim e rqt
-    - [ ] Nodes
+    - [x] Nodes
     - [ ] Topics
     - [ ] Services
     - [ ] Parameters
