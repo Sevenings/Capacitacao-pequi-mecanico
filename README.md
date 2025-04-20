@@ -4,6 +4,20 @@
 
 - Luna, em Dr. Stone
 
+# Executar
+
+Construir a imagem:
+
+```
+docker build -t roscapacitacao .
+```
+
+Executar:
+
+```
+./run.sh
+```
+
 ---
 
 ## Checklist pessoal
